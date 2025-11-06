@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/208004.png" group-title="RO| CANALE GENERALE", TEST
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/208004.png" group-title="", TEST
 http://149.62.177.134:8888/rom_Antena_1/index.m3u8
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/92459.png" group-title="RO| CANALE GENERALE",RO| TVR HD
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:0D:A0:8C&stream=92459&extension=ts&play_token=zGYHlYB6zf
