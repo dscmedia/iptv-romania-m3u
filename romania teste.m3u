@@ -1,7 +1,6 @@
-#EXTINF:0 tvg-rec="3",E! HD RO
-#EXTGRP:Румыния | Romania
+#EXTINF:0,E! HD RO
 http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/6093/index.m3u8
-#EXTINF:0 tvg-rec="0",Cinethronix RO
+#EXTINF:0,Cinethronix RO
 #EXTGRP:Румыния | Romania
 http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/15251/index.m3u8
 #EXTINF:0 tvg-rec="3",DIGI Sport 1 HD RO
