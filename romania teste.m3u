@@ -3,44 +3,16 @@
 http://149.62.177.134:8888/rom_Antena_1/index.m3u8
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/92459.png" group-title=", TESTTEST2
 http://gcn-f4.gcntv.net/gcntv-acasa1/mpegts
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/56086.png" group-title="RO| CANALE GENERALE",RO| TVR 1
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:0D:A0:8C&stream=56086&extension=ts&play_token=quGHmbxQBx
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/56088.png" group-title="RO| CANALE GENERALE",RO| TVR 2
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:0D:A0:8C&stream=56088&extension=ts&play_token=z91xdsOrTG
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/207938.png" group-title="RO| CANALE GENERALE",RO|  TVR 2
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:0D:A0:8C&stream=207938&extension=ts&play_token=SW5LNuSUCA
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/207939.png" group-title="RO| CANALE GENERALE",RO|  TVR 3
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:0D:A0:8C&stream=207939&extension=ts&play_token=VxkPEJxadq
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/459769.png" group-title="RO| CANALE GENERALE",RO| TVR CLUJ
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:0D:A0:8C&stream=459769&extension=ts&play_token=kG9pTpeFJu
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/208003.png" group-title="RO| CANALE GENERALE",RO|  TVR CRAIOVA
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:0D:A0:8C&stream=208003&extension=ts&play_token=kXYGmb0ist
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1487631.png" group-title="RO| CANALE GENERALE",RO| TVR INTERNATIONAL
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:0D:A0:8C&stream=1487631&extension=ts&play_token=PpfmKTbS7r
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/459772.png" group-title="RO| CANALE GENERALE",RO| TVR TARGU MURES
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:0D:A0:8C&stream=459772&extension=ts&play_token=cOh3JEhipC
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/56095.png" group-title="RO| CANALE GENERALE",RO| NATIONAL TV
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:0D:A0:8C&stream=56095&extension=ts&play_token=6OBaZVzv75
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/459776.png" group-title="RO| CANALE GENERALE",RO| NAŢIONAL TV
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:0D:A0:8C&stream=459776&extension=ts&play_token=Bza7CNNFju
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/207987.png" group-title="RO| CANALE GENERALE",RO|  NATIONAL 24
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:0D:A0:8C&stream=207987&extension=ts&play_token=KdzngbRq0d
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/459775.png" group-title="RO| CANALE GENERALE",RO| NAŢIONAL 24 PLUS
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:0D:A0:8C&stream=459775&extension=ts&play_token=inKiqFQqxa
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/319084.png" group-title="RO| CANALE GENERALE",RO| PRO TV HD
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:0D:A0:8C&stream=319084&extension=ts&play_token=MoPbais2WM
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/56093.png" group-title="RO| CANALE GENERALE",RO| PRO TV
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:0D:A0:8C&stream=56093&extension=ts&play_token=F0EGeKmoQG
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/319072.png" group-title="RO| CANALE GENERALE",RO| PROTV
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:0D:A0:8C&stream=319072&extension=ts&play_token=cguQyvtVdu
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/319173.png" group-title="RO| CANALE GENERALE",RO| PRO TV NEWS
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:0D:A0:8C&stream=319173&extension=ts&play_token=UuyPq8BWU8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/56042.png" group-title="RO| CANALE GENERALE",RO| PROTV INTERNATIONAL
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:0D:A0:8C&stream=56042&extension=ts&play_token=BZP9NaET2N
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/56091.png" group-title="RO| CANALE GENERALE",RO| ROMANIA TV
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:0D:A0:8C&stream=56091&extension=ts&play_token=fGYNaUUnsk
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/207908.png" group-title="RO| CANALE GENERALE",RO|  AGRO TV
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:0D:A0:8C&stream=207908&extension=ts&play_token=bFGM5UHvqt
+#EXTINF:-1 tvg-id="24HorasInternacional.es" tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="News",24 Horas Internacional [Geo-blocked]
+https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
+#EXTINF:-1 tvg-id="AcasaTV.md" tvg-logo="https://i.imgur.com/k8qpvHb.png" group-title="Entertainment",Acasa TV (576p)
+http://hls.protv.md/acasatv/acasatv.m3u8
+#EXTINF:-1 tvg-id="AFVFamily.pl" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/5e618d18-1f27-43f8-a2e9-7336d8aeb8e5-afv-family-1622017638-width200-quality90.png" group-title="Undefined",AFV Family (720p)
+https://ec4a5bcc9d664b48985de6095931aaa7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_AmericasFunniestHomeVideos/playlist.m3u8
+#EXTINF:-1 tvg-id="AXN.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/320px-AXN_logo_%282015%29.svg.png" group-title="Undefined",AXN (1080p)
+http://178.219.128.68:64888/AXN
+#EXTINF:-1 tvg-id="AXNBlack.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/AXN_Black_logo_%282015%29.svg/320px-AXN_Black_logo_%282015%29.svg.png" group-title="Undefined",AXN Black (576p)
+http://185.236.229.62:9981/play/a075
 
 
 
