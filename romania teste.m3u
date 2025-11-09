@@ -1,16 +1,327 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/208004.png" group-title="", TEST1
-http://30f247f9.edmonst.net/iptv/FTXT5WEPVSHHWZ/7044/index.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/92459.png" group-title=", TESTTEST2
-http://30f247f9.edmonst.net/iptv/FTXT5WEPVSHHWZ/7035/index.m3u8
-#EXTINF:-1,TraLaLa HD
-http://86.124.20.15:50001/
-#EXTINF:-1,Duna HD HU
-http://149.62.177.134:8888/hung_Duna_HD/index.m3u8
-#EXTINF:-1,E! HD RO
+#EXTINF:0 tvg-rec="3",E! HD RO
+#EXTGRP:Румыния | Romania
 http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/6093/index.m3u8
-#EXTINF:-1,Cinethronix RO
+#EXTINF:0 tvg-rec="0",Cinethronix RO
+#EXTGRP:Румыния | Romania
 http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/15251/index.m3u8
+#EXTINF:0 tvg-rec="3",DIGI Sport 1 HD RO
+#EXTGRP:Румыния | Romania
+http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/2523/index.m3u8
+#EXTINF:0 tvg-rec="3",DIGI Sport 2 HD RO
+#EXTGRP:Румыния | Romania
+http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/2522/index.m3u8
+#EXTINF:0 tvg-rec="3",DIGI Sport 3 HD RO
+#EXTGRP:Румыния | Romania
+http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/2524/index.m3u8
+#EXTINF:0 tvg-rec="3",DIGI Sport 4 HD RO
+#EXTGRP:Румыния | Romania
+http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/2538/index.m3u8
+#EXTINF:0 tvg-rec="3",TVR 1 RO
+#EXTGRP:Румыния | Romania
+http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/6941/index.m3u8
+#EXTINF:0 tvg-rec="3",TVR 2 RO
+#EXTGRP:Румыния | Romania
+http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/6942/index.m3u8
+#EXTINF:0 tvg-rec="3",TVR 3 RO
+#EXTGRP:Румыния | Romania
+http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/6943/index.m3u8
+#EXTINF:0 tvg-rec="3",TV1000 RO
+#EXTGRP:Румыния | Romania
+http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/6944/index.m3u8
+#EXTINF:0 tvg-rec="3",Acasă Gold RO
+#EXTGRP:Румыния | Romania
+http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/6945/index.m3u8
+#EXTINF:0 tvg-rec="3",Alfa Omega TV RO
+#EXTGRP:Румыния | Romania
+http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/6946/index.m3u8
+#EXTINF:0 tvg-rec="3",National 24 Plus RO
+#EXTGRP:Румыния | Romania
+http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/6947/index.m3u8
+#EXTINF:0 tvg-rec="3",FilmBox RO
+#EXTGRP:Румыния | Romania
+http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/6948/index.m3u8
+#EXTINF:0 tvg-rec="3",AMC RO
+#EXTGRP:Румыния | Romania
+http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/6949/index.m3u8
+#EXTINF:0 tvg-rec="3",AXN White RO
+#EXTGRP:Румыния | Romania
+http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/6950/index.m3u8
+#EXTINF:0 tvg-rec="3",Pro Cinema RO
+#EXTGRP:Румыния | Romania
+http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/6951/index.m3u8
+#EXTINF:0 tvg-rec="3",AXN Black RO
+#EXTGRP:Румыния | Romania
+http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/6952/index.m3u8
+#EXTINF:0 tvg-rec="3",Film Cafe RO
+#EXTGRP:Румыния | Romania
+http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/6953/index.m3u8
+#EXTINF:0 tvg-rec="3",Travel Mix HD RO
+#EXTGRP:Румыния | Romania
+http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/6954/index.m3u8
+#EXTINF:0 tvg-rec="3",TV Paprika RO
+#EXTGRP:Румыния | Romania
+http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/6955/index.m3u8
+#EXTINF:0 tvg-rec="3",Investigation Discovery RO
+#EXTGRP:Румыния | Romania
+http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/6957/index.m3u8
+#EXTINF:0 tvg-rec="3",Realitatea Plus RO
+#EXTGRP:Румыния | Romania
+http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/6958/index.m3u8
+#EXTINF:0 tvg-rec="3",Romania TV RO
+#EXTGRP:Румыния | Romania
+http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/6959/index.m3u8
+#EXTINF:0 tvg-rec="3",Minimax RO
+#EXTGRP:Румыния | Romania
+http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/6960/index.m3u8
+#EXTINF:0 tvg-rec="3",JimJam RO
+#EXTGRP:Румыния | Romania
+http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/6961/index.m3u8
+#EXTINF:0 tvg-rec="3",Kiss TV RO
+#EXTGRP:Румыния | Romania
+http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/6962/index.m3u8
+#EXTINF:0 tvg-rec="3",Music Channel RO
+#EXTGRP:Румыния | Romania
+http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/6963/index.m3u8
+#EXTINF:0 tvg-rec="3",Disney Channel RO
+#EXTGRP:Румыния | Romania
+http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/6965/index.m3u8
+#EXTINF:0 tvg-rec="3",Cartoon Network RO
+#EXTGRP:Румыния | Romania
+http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/6966/index.m3u8
+#EXTINF:0 tvg-rec="3",Disney Jr. RO
+#EXTGRP:Румыния | Romania
+http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/6967/index.m3u8
+#EXTINF:0 tvg-rec="3",Discovery Channel RO
+#EXTGRP:Румыния | Romania
+http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/6968/index.m3u8
+#EXTINF:0 tvg-rec="3",TLC HD RO
+#EXTGRP:Румыния | Romania
+http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/6969/index.m3u8
+#EXTINF:0 tvg-rec="3",TeenNick RO
+#EXTGRP:Румыния | Romania
+http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/6971/index.m3u8
+#EXTINF:0 tvg-rec="3",Nickelodeon RO
+#EXTGRP:Румыния | Romania
+http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/6972/index.m3u8
+#EXTINF:0 tvg-rec="3",ZU TV RO
+#EXTGRP:Румыния | Romania
+http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/6973/index.m3u8
+#EXTINF:0 tvg-rec="3",Cartoonito RO
+#EXTGRP:Румыния | Romania
+http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/6974/index.m3u8
+#EXTINF:0 tvg-rec="3",MTV 80s RO
+#EXTGRP:Румыния | Romania
+http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/6977/index.m3u8
+#EXTINF:0 tvg-rec="3",MTV Hits RO
+#EXTGRP:Румыния | Romania
+http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/6978/index.m3u8
+#EXTINF:0 tvg-rec="3",Favorit TV RO
+#EXTGRP:Румыния | Romania
+http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/6979/index.m3u8
+#EXTINF:0 tvg-rec="3",Viasat History RO
+#EXTGRP:Румыния | Romania
+http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/6980/index.m3u8
+#EXTINF:0 tvg-rec="3",Viasat Explore RO
+#EXTGRP:Румыния | Romania
+http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/6981/index.m3u8
+#EXTINF:0 tvg-rec="3",CineMax 2 RO
+#EXTGRP:Румыния | Romania
+http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/6982/index.m3u8
+#EXTINF:0 tvg-rec="3",National TV RO
+#EXTGRP:Румыния | Romania
+http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/6983/index.m3u8
+#EXTINF:0 tvg-rec="3",Kanal D HD RO
+#EXTGRP:Румыния | Romania
+http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/6984/index.m3u8
+#EXTINF:0 tvg-rec="3",CineMax HD RO
+#EXTGRP:Румыния | Romania
+http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/6985/index.m3u8
+#EXTINF:0 tvg-rec="3",HBO HD RO
+#EXTGRP:Румыния | Romania
+http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/6986/index.m3u8
+#EXTINF:0 tvg-rec="3",HBO 3 HD RO
+#EXTGRP:Румыния | Romania
+http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/6987/index.m3u8
+#EXTINF:0 tvg-rec="3",Acasă TV HD RO
+#EXTGRP:Румыния | Romania
+http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/6988/index.m3u8
+#EXTINF:0 tvg-rec="3",Animal Planet HD RO
+#EXTGRP:Румыния | Romania
+http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/6989/index.m3u8
+#EXTINF:0 tvg-rec="3",Pro Arena HD RO
+#EXTGRP:Румыния | Romania
+http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/6990/index.m3u8
+#EXTINF:0 tvg-rec="3",National Geographic HD RO
+#EXTGRP:Румыния | Romania
+http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/6991/index.m3u8
+#EXTINF:0 tvg-rec="3",Eurosport 1 HD RO
+#EXTGRP:Румыния | Romania
+http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/6992/index.m3u8
+#EXTINF:0 tvg-rec="3",Bucuresti 1 TV RO
+#EXTGRP:Румыния | Romania
+http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/6994/index.m3u8
+#EXTINF:0 tvg-rec="3",Prima TV RO
+#EXTGRP:Румыния | Romania
+http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/6995/index.m3u8
+#EXTINF:0 tvg-rec="3",FilmBox Extra HD RO
+#EXTGRP:Румыния | Romania
+http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/6996/index.m3u8
+#EXTINF:0 tvg-rec="3",Pro TV RO
+#EXTGRP:Румыния | Romania
+http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/6997/index.m3u8
+#EXTINF:0 tvg-rec="3",TVR 1 HD RO
+#EXTGRP:Румыния | Romania
+http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/6998/index.m3u8
+#EXTINF:0 tvg-rec="3",Film Now HD RO
+#EXTGRP:Румыния | Romania
+http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/6999/index.m3u8
+#EXTINF:0 tvg-rec="3",TVR International HD RO
+#EXTGRP:Румыния | Romania
+http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/7000/index.m3u8
+#EXTINF:0 tvg-rec="3",Antena 1 HD RO
+#EXTGRP:Румыния | Romania
+http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/7002/index.m3u8
+#EXTINF:0 tvg-rec="3",Antena 3 CNN HD RO
+#EXTGRP:Румыния | Romania
+http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/7003/index.m3u8
+#EXTINF:0 tvg-rec="3",Antena Stars HD RO
+#EXTGRP:Румыния | Romania
+http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/7004/index.m3u8
+#EXTINF:0 tvg-rec="3",HBO 2 HD RO
+#EXTGRP:Румыния | Romania
+http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/7005/index.m3u8
+#EXTINF:0 tvg-rec="3",History HD RO
+#EXTGRP:Румыния | Romania
+http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/7006/index.m3u8
+#EXTINF:0 tvg-rec="3",AXN RO
+#EXTGRP:Румыния | Romania
+http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/7007/index.m3u8
+#EXTINF:0 tvg-rec="3",AXN HD RO
+#EXTGRP:Румыния | Romania
+http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/7008/index.m3u8
+#EXTINF:0 tvg-rec="3",DIGI 24 HD RO
+#EXTGRP:Румыния | Romania
+http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/7009/index.m3u8
+#EXTINF:0 tvg-rec="3",Nat Geo Wild HD RO
+#EXTGRP:Румыния | Romania
+http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/7010/index.m3u8
+#EXTINF:0 tvg-rec="3",Mezzo RO
+#EXTGRP:Румыния | Romania
+http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/7011/index.m3u8
+#EXTINF:0 tvg-rec="3",AXN Spin RO
+#EXTGRP:Румыния | Romania
+http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/7012/index.m3u8
+#EXTINF:0 tvg-rec="3",HBO 3 RO
+#EXTGRP:Румыния | Romania
+http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/7013/index.m3u8
+#EXTINF:0 tvg-rec="3",HBO RO
+#EXTGRP:Румыния | Romania
+http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/7014/index.m3u8
+#EXTINF:0 tvg-rec="3",Diva RO
+#EXTGRP:Румыния | Romania
+http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/7016/index.m3u8
+#EXTINF:0 tvg-rec="3",UTV RO
+#EXTGRP:Румыния | Romania
+http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/7017/index.m3u8
+#EXTINF:0 tvg-rec="3",National Geographic RO
+#EXTGRP:Румыния | Romania
+http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/7018/index.m3u8
+#EXTINF:0 tvg-rec="3",Nat Geo Wild RO
+#EXTGRP:Румыния | Romania
+http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/7021/index.m3u8
+#EXTINF:0 tvg-rec="3",Taraf TV RO
+#EXTGRP:Румыния | Romania
+http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/7022/index.m3u8
+#EXTINF:0 tvg-rec="3",Agro TV RO
+#EXTGRP:Румыния | Romania
+http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/7023/index.m3u8
+#EXTINF:0 tvg-rec="3",Hora TV RO
+#EXTGRP:Румыния | Romania
+http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/7024/index.m3u8
+#EXTINF:0 tvg-rec="3",Comedy Central RO
+#EXTGRP:Румыния | Romania
+http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/7025/index.m3u8
+#EXTINF:0 tvg-rec="3",Etno RO
+#EXTGRP:Румыния | Romania
+http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/7027/index.m3u8
+#EXTINF:0 tvg-rec="3",HBO 2 RO
+#EXTGRP:Румыния | Romania
+http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/7029/index.m3u8
+#EXTINF:0 tvg-rec="3",MTV RO
+#EXTGRP:Румыния | Romania
+http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/7031/index.m3u8
+#EXTINF:0 tvg-rec="3",BBC Earth HD RO
+#EXTGRP:Румыния | Romania
+http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/7032/index.m3u8
+#EXTINF:0 tvg-rec="3",Warner TV RO
+#EXTGRP:Румыния | Romania
+http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/7033/index.m3u8
+#EXTINF:0 tvg-rec="3",ZU TV HD RO
+#EXTGRP:Румыния | Romania
+http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/7034/index.m3u8
+#EXTINF:0 tvg-rec="3",Happy Channel HD RO
+#EXTGRP:Румыния | Romania
+http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/7035/index.m3u8
+#EXTINF:0 tvg-rec="3",UTV HD RO
+#EXTGRP:Румыния | Romania
+http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/7036/index.m3u8
+#EXTINF:0 tvg-rec="3",Viasat Nature HD RO
+#EXTGRP:Румыния | Romania
+http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/7037/index.m3u8
+#EXTINF:0 tvg-rec="3",DIGI Animal World HD RO
+#EXTGRP:Румыния | Romania
+http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/7038/index.m3u8
+#EXTINF:0 tvg-rec="3",DIGI Life HD RO
+#EXTGRP:Румыния | Romania
+http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/7039/index.m3u8
+#EXTINF:0 tvg-rec="3",DIGI World HD RO
+#EXTGRP:Румыния | Romania
+http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/7040/index.m3u8
+#EXTINF:0 tvg-rec="3",Nick Jr. RO
+#EXTGRP:Румыния | Romania
+http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/7042/index.m3u8
+#EXTINF:0 tvg-rec="3",FilmBox Premium HD RO
+#EXTGRP:Румыния | Romania
+http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/7043/index.m3u8
+#EXTINF:0 tvg-rec="3",FilmBox Family HD RO
+#EXTGRP:Румыния | Romania
+http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/7044/index.m3u8
+#EXTINF:0 tvg-rec="3",Food Network RO
+#EXTGRP:Румыния | Romania
+http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/7046/index.m3u8
+#EXTINF:0 tvg-rec="3",Trinitas TV RO
+#EXTGRP:Румыния | Romania
+http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/7047/index.m3u8
+#EXTINF:0 tvg-rec="3",DocuBox HD RO
+#EXTGRP:Румыния | Romania
+http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/7049/index.m3u8
+#EXTINF:0 tvg-rec="3",Fashion TV RO
+#EXTGRP:Румыния | Romania
+http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/7051/index.m3u8
+#EXTINF:0 tvg-rec="3",Credo TV RO
+#EXTGRP:Румыния | Romania
+http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/7052/index.m3u8
+#EXTINF:0 tvg-rec="3",CBS Reality RO
+#EXTGRP:Румыния | Romania
+http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/7053/index.m3u8
+#EXTINF:0 tvg-rec="3",Bollywood RO
+#EXTGRP:Румыния | Romania
+http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/7054/index.m3u8
+#EXTINF:0 tvg-rec="3",Pro TV International RO
+#EXTGRP:Румыния | Romania
+http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/7055/index.m3u8
+#EXTINF:0 tvg-rec="3",Epic Drama RO
+#EXTGRP:Румыния | Romania
+http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/7057/index.m3u8
+#EXTINF:0 tvg-rec="3",BBC Earth RO
+#EXTGRP:Румыния | Romania
+http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/7058/index.m3u8
+#EXTINF:0 tvg-rec="3",Prima Sport 1 HD RO
+#EXTGRP:Румыния | Romania
+http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/7059/index.m3u8
+#EXTINF:0 tvg-rec="3",Prima Sport 2 HD RO
+#EXTGRP:Румыния | Romania
+http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/7060/index.m3u8
 
 
 
