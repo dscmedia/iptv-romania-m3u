@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/208004.png" group-title="", TEST
-http://149.62.177.134:8888/rom_Antena_1/index.m3u8
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/208004.png" group-title="", TEST1
+http://30f247f9.edmonst.net/iptv/FTXT5WEPVSHHWZ/7044/index.m3u8
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/92459.png" group-title=", TESTTEST2
-http://gcn-f4.gcntv.net/gcntv-acasa1/mpegts
+http://30f247f9.edmonst.net/iptv/FTXT5WEPVSHHWZ/7035/index.m3u8
 #EXTINF:-1 tvg-id="24HorasInternacional.es" tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="News",24 Horas Internacional [Geo-blocked]
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
 #EXTINF:-1 tvg-id="AcasaTV.md" tvg-logo="https://i.imgur.com/k8qpvHb.png" group-title="Entertainment",Acasa TV (576p)
