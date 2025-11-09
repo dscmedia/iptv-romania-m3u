@@ -3,7 +3,8 @@
 http://30f247f9.edmonst.net/iptv/FTXT5WEPVSHHWZ/7044/index.m3u8
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/92459.png" group-title=", TESTTEST2
 http://30f247f9.edmonst.net/iptv/FTXT5WEPVSHHWZ/7035/index.m3u8
-
+#EXTINF:-1,TraLaLa HD
+http://86.124.20.15:50001/
 
 
 
