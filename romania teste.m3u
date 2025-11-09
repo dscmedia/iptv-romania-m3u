@@ -7,6 +7,9 @@ http://30f247f9.edmonst.net/iptv/FTXT5WEPVSHHWZ/7035/index.m3u8
 http://86.124.20.15:50001/
 #EXTINF:-1,Duna HD HU
 http://149.62.177.134:8888/hung_Duna_HD/index.m3u8
+#EXTINF:0 tvg-rec="3",E! HD RO
+http://9ef74b75.akadatel.com/iptv/GHHGR5TAMARW7QCV8K9RHW9G/6093/index.m3u8
+
 
 
 
