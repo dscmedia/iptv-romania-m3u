@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="⭐⭐⭐MIREASA⭐⭐⭐" tvg-logo="https://upload.wikimedia.org/wikipedia/ro/2/27/Mireasa_Logo.png" group-title="Romania ",⭐⭐⭐MIREASA⭐⭐⭐
-http://update4.miicrosoft.es:80/819PkTD1NcC0/XGNfrCaFyXcK/51856
+#EXTINF:-1 tvg-id="" tvg-name="⭐⭐⭐TEST⭐⭐⭐" tvg-logo="https://upload.wikimedia.org/wikipedia/ro/2/27/Mireasa_Logo.png" group-title="Romania ",⭐⭐⭐MIREASA⭐⭐⭐
+http://86.123.190.127:9981/stream/channelid/901157469?profile=pass
 #EXTINF:-1 tvg-id="" tvg-name="⭐⭐⭐Mireasa Plus⭐⭐⭐" tvg-logo="https://assets.antenaplay.ro/2023/04/13/Xupo2qlnOHckDXhaOOCU.png" group-title="Romania ",⭐⭐⭐Mireasa Plus⭐⭐⭐
 http://update4.miicrosoft.es:80/819PkTD1NcC0/XGNfrCaFyXcK/51857
 #EXTINF:-1 tvg-id="antena1.ro" tvg-name="Antena 1 SD" tvg-logo="https://treambura.com/reseller/resize.php?max=32&url=https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Logo_Antena_1_%282010%29.svg/867px-Logo_Antena_1_%282010%29.svg.png" group-title="Romania ",Antena 1 SD
