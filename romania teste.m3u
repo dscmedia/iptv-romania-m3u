@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1,TEST
-http://30f247f9.edmonst.net/iptv/FTXT5WEPVSHHWZ/6990/index.m3u8
+#EXTINF:-1,TVR 2
+https://tvr-tvr2.cdn.zitec.com/live/tvr2/main.m3u8
 #EXTINF:-1,INFO TV TEST
 http://30f247f9.edmonst.net/iptv/FTXT5WEPVSHHWZ/7064/index.m3u8
 #EXTINF:-1,TRALALA DSN
